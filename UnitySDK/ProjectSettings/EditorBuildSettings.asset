@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ActiveRagdollStyleTransfer/StyleTransfer002/Scenes/StyleTransfer002.unity
+    guid: 38175439ad25a4aedbb163b24d7df7c8
+  m_configObjects: {}
